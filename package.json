@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashish314/todoList/issues"
   },
-  "homepage": "https://github.com/ashish314/todoList#readme"
+  "homepage": "https://github.com/ashish314/todoList#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
